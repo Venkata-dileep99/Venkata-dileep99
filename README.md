@@ -149,26 +149,6 @@ Responsibilities:
 
 ---
 
-## 📊 GitHub Statistics
-
-<p align="center">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=gadevenkatadileep99&show_icons=true&theme=tokyonight" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gadevenkatadileep99&layout=compact&theme=tokyonight" />
-</p>
-
-<p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=gadevenkatadileep99&theme=tokyonight" />
-</p>
-
----
-
-## 🏆 GitHub Trophies
-
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=gadevenkatadileep99&theme=tokyonight&row=1&column=7" />
-</p>
-
----
 
 ## 📫 Connect With Me
 
